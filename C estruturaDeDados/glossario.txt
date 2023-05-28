@@ -1,0 +1,9 @@
+aula 2 : definiu "typedef struct", chamou a classe e usou ela de forma hard code;
+	Se usar (int* x) significa que estamos falando de endereço e não mais do inteiro.
+	malloc = recebe parametro n° de bytes q se deseja alocar;
+	sizeof (operador) = retornar qtdd de bytes ocupada.
+
+aula 3 : Lista Linear Sequencial
+aula 4 : 
+
+aula 5 : Lista ligada
